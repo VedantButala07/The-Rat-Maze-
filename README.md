@@ -1,2 +1,2 @@
-# The-Rat-Maze-
+# The-Rat-Maze-Game 
 DSA Project 
